@@ -1,6 +1,6 @@
 This repository should help you when setting up you Blender Market product page.
-It has created to match the editable area of the product page and will give a
-good representation of what your final product page will look like.  
+It has been created to match the editable area of the product page and will
+give a good representation of what your final product page will look like.  
 This was created using VSCode but should work in other text editors as well.
 
 ---
