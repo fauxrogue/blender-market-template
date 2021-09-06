@@ -7,10 +7,10 @@ This was created using VSCode but should work in other text editors as well.
 
 ## Getting Started
 
--   Run the `index.html` page.
+-   Run the `index.html` page located in the `src` directory.
 -   Ensure that whatever page you're working on is uncommented in the `index.html`
     file.
--   By default `_page1.html` is active uncommented.
+-   By default `_page1.html` is active uncommented. (Pages are in `src/pages`)
 -   Test by commenting out `_page1.html` and uncommenting `_page2.html`.
 -   Edit the contents of `_page1.html` or `_page2.html` and save to view changes.
     -   Or make your own page
